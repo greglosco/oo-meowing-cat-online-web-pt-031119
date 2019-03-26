@@ -6,7 +6,7 @@ class Cat
   def meow=(name)
     @name = name
   end
-  binding.pry
+  
   def meow
     @name
   end
